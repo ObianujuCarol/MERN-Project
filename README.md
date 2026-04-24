@@ -38,8 +38,8 @@ This project is a full-stack Todo application built using the MERN stack (MongoD
 ### Application Running
 ![App Running](screenshots/app-running.png)
 
-### Create Todo (POST Request)
-![Create Todo](screenshots/post-todos.png)
+### Create Todos (POST Request)
+![Post Todos](screenshots/post-todos.png)
 
 ### Fetch Todos (GET Request)
 ![Fetch Todos](screenshots/get-todos.png)
